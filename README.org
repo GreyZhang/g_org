@@ -1,2 +1,4 @@
 * g_org
-- ѧϰemacs�Ĺ����н�����ᵽ��org-mode�Ĺ�����ǿ�󣬵������Լ����յĻ��ǱȽ�Ƥë���ڴ˴���һ��С��project��������������׷�����Լ�org-mode�ĵ�ѧϰ���̡�
+** 学习emacs的过程中渐渐体会到了org-mode的功能与强大，但是我自己掌握的还是比较皮毛。在此创建一个小的project，后续持续整理追踪我自己org-mode的的学习过程。
+** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/120732847][856_org-mode中的段落管理]]
