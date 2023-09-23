@@ -6,3 +6,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120734240][857_org-mode安装、编辑器选择以及基本编辑知识]]
 - [[https://greyzhang.blog.csdn.net/article/details/120734839][858_使用pandoc实现org-mode到word的转换]]
 - [[https://greyzhang.blog.csdn.net/article/details/120753756][859_org语法学习小结]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133203622][1792_尝试使用emacs的org publish]]
