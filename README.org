@@ -8,3 +8,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120753756][859_org语法学习小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133203622][1792_尝试使用emacs的org publish]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777702][1805_emacs org-mode的归档处理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133777746][1806_emacs_org-mode归档的时候修改归档文件名称]]
