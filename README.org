@@ -9,3 +9,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133203622][1792_尝试使用emacs的org publish]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777702][1805_emacs org-mode的归档处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777746][1806_emacs_org-mode归档的时候修改归档文件名称]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134911350][1829_org-mode的标记语法]]
