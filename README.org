@@ -11,3 +11,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133777746][1806_emacs_org-mode归档的时候修改归档文件名称]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911350][1829_org-mode的标记语法]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911400][1830_emacs lisp的交互式模式]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134911432][1831_emacs_restart-emacs插件的功能探索]]
