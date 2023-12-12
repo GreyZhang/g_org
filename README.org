@@ -13,3 +13,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/134911400][1830_emacs lisp的交互式模式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911432][1831_emacs_restart-emacs插件的功能探索]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911462][1832_org-mode的注释处理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134958327][1837_emacs中使用org-mode管理代码功能简述]]
