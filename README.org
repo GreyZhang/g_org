@@ -17,3 +17,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/134958414][1839_emacs中org-mode的代码结构]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134958458][1840_emacs org-mode babel的语言支持]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135049680][1848_emacs_org-mode代码块环境]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135049734][1849_emacs_org-mode提取源代码]]
