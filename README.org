@@ -19,3 +19,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/135049680][1848_emacs_org-mode代码块环境]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135049734][1849_emacs_org-mode提取源代码]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135049755][1850_emacs_org-download在Windows上的使用]]
+- [[https://greyzhang.blog.csdn.net/article/details/135173716][1853_emacs_org-mode中的源代码编辑]]
