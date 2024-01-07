@@ -21,3 +21,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/135049755][1850_emacs_org-download在Windows上的使用]]
 - [[https://greyzhang.blog.csdn.net/article/details/135173716][1853_emacs_org-mode中的源代码编辑]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135173875][1856_emacs_calc使用介绍与故事]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135440028][1867_noweb简介]]
